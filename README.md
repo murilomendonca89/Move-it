@@ -5,6 +5,8 @@ que ao atingir o tempo final, te dá uma tarefa a ser cumprida e assim subrir de
 
 As tecnologias utilizadas foram:
 * Reactjs
+* CSS3
+* Typescript
 * Next.js
 
 Agradeço a #RocketSeat pelo desafio proposto e pelo aprendizado adquirido durante uma semana intensa!
